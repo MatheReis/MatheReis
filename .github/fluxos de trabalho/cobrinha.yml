@@ -1,8 +1,8 @@
-nome : Gerar Dados
 
-em :
-  cronograma : # executar a cada 12 horas
-    - cron : " * * / 12 * * * "
+nome :s Gerar Dados
+
+em  :
+  cronograma :  # executar a cada 12 horas    - cron : " * * / 12 * * * "
   workflow_dispatch :
 
 empregos :
@@ -22,5 +22,5 @@ empregos :
           target_branch : output
           build_dir : dist
         env :
-    GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}} 
+    GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
   
