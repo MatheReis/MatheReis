@@ -1,8 +1,8 @@
 ### Olá, eu sou o Matheus Reis!
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas!
-- 🌱 Atualmente estudando JavaScript, HTML e CSS!
-- 👯 Procurando estágio na área para aprender novas habilidades!
+- 🔭 Estagiário em Desenvolvimento Back-End!
+- 🌱 Atualmente estudando C# e .NET!
+- 👯 Atualmente conheço JavaSript,HTml e Css
 - 📫 Você pode me encontar pelo LinkedIn https://www.linkedin.com/in/matheus-reis-fagundes-0610b4206/ 
  e pelo Gmail matheus.reisfagundes@gmail.com
  
