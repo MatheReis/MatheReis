@@ -2,7 +2,7 @@
 
 - 🔭 Estagiário em Desenvolvimento Back-End!
 - 🌱 Atualmente estudando C# e .NET!
-- 👯 Atualmente conheço JavaSript,HTml e Css
+- 👯 Atualmente conheço JavaSript,HTML e CSS
 - 📫 Você pode me encontar pelo LinkedIn https://www.linkedin.com/in/matheus-reis-fagundes-0610b4206/ 
  e pelo Gmail matheus.reisfagundes@gmail.com
  
@@ -17,8 +17,7 @@
   <img align = "center" alt = "Mat-HTML" height = "30" width = "70" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align = "center" alt = "Mat-CSS" height = "30" width = "70" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align = "center" alt = "Mat-C#" height = "30" width = "70" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align = "center" alt = "Mat-C#" height = "30" width = "70" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align = "center" alt = "Mat-.NET" height = "30" width = "100" src = "	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img align = "center" alt = "Mat-.net" height = "30" width = "70" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align = "right" alt = "Mat-Dino" src = "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif">
 </div>
   <div>
