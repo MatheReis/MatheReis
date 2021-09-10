@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus Reis!
 
-- 🔭 Estagiário em Desenvolvimento Back-End!
+- 🔭 Estagiário em Desenvolvimento de Software!
 - 🌱 Atualmente estudando C# e .NET!
 - 👯 Atualmente conheço JavaSript,HTML e CSS
 - 📫 Você pode me encontar pelo LinkedIn https://www.linkedin.com/in/matheus-reis-fagundes-0610b4206/ 
