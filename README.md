@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Reis!
 
 - 🔭 Estagiário em Desenvolvimento de Software!
-- 🌱 Atualmente estudando C# e .NET!
+- 🌱 Atualmente estudando C#, .NET, TypeScript e Angular!
 - 👯 Atualmente conheço JavaSript,HTML e CSS
 - 📫 Você pode me encontar pelo LinkedIn https://www.linkedin.com/in/matheus-reis-fagundes-0610b4206/ 
  e pelo Gmail matheus.reisfagundes@gmail.com
@@ -13,13 +13,16 @@
 </div>
   
   <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Mat-Js" height = "30" width = "70" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align = "center" alt = "Mat-HTML" height = "30" width = "70" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align = "center" alt = "Mat-CSS" height = "30" width = "70" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align = "center" alt = "Mat-C#" height = "30" width = "70" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align = "center" alt = "Mat-.net" height = "30" width = "70" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align = "right" alt = "Mat-Dino" src = "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif">
-</div>
+  <img align = "center" alt = "Mat-Js" height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg />
+  <img align = "center" alt = "Mat-HTML" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>
+  <img align = "center" alt = "Mat-CSS" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>
+   <img align = "left" alt = "Mat-angular" height = "50" widht = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg /><br><br>
+   
+  <img align = "center" alt = "Mat-C#" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg  /><spacer align><spacer>
+  <img align = "left" alt = "Mat-Ts" height = "50" widht = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg />
+  <img align = "left" alt = "Mat-.net" height= "50" widht = "70"  src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg />
+  <img align = "right" alt = "Mat-Dino" top = "-10" src = "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif"></div>
+   
   <div>
     <a href="https://instagram.com/eu_matreis" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "80" img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
     <a href = "matheus.reisfagundes@gmail.com"> <img align = "center" alt = "Mat-Gmail" height = "25" width = "100" img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
