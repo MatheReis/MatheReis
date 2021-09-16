@@ -1,11 +1,9 @@
 ### Olá, eu sou o Matheus Reis!
 
-- 🔭 Estagiário em Desenvolvimento de Software!
-- 🌱 Atualmente estudando C#, .NET, TypeScript e Angular!
-- 👯 Atualmente conheço JavaSript,HTML e CSS
-- 📫 Você pode me encontar pelo LinkedIn https://www.linkedin.com/in/matheus-reis-fagundes-0610b4206/ 
- e pelo Gmail matheus.reisfagundes@gmail.com
- 
+- 🎓 Estagiário em Desenvolvimento de Software e estudante de Análise e Desenvolvimento de Sistemas!
+- 📗 Atualmente estudando C#, .NET, TypeScript e Angular!
+- 💻 Grande entusiasta do Front end com JavaSript,HTML e CSS
+
  <div>
   <a href="https://github.com/MatheReis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
