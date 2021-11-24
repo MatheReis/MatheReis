@@ -5,11 +5,10 @@
 💻 Estágiario de Desenvolvimento de Software<br>
 🔆 Grande Entusista em Desenvolvimento Front End<br>
 
-
  <div>
   <a href="https://github.com/MatheReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheReis&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheReis&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheReis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 
