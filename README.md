@@ -24,7 +24,7 @@
   <div>
     <a href="https://instagram.com/eu_matreis" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "80" img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
     <a href = "matheus.reisfagundes@gmail.com"> <img align = "center" alt = "Mat-Gmail" height = "25" width = "100" img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-    <a href="https://www.linkedin.com/in/matheus-reis-fagundes-0610b4206/" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "100" img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" _ blank "> </a> 
+    <a href="https://www.linkedin.com/in/matheus-dos-reis-fagundes-0610b4206/" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "100" img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" _ blank "> </a> 
 
  ![Snake animation](https://github.com/MatheReis/MatheReis/blob/output/github-contribution-grid-snake.svg)
  
