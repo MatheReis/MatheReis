@@ -4,6 +4,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
 💻 Estágiario de Desenvolvimento de Software<br>
 🔆 Grande Entusista em Desenvolvimento Front End<br>
+🐲 Atualmente estudando Angular e Banco de Dados<br>
 
  <div>
   <a href="https://github.com/MatheReis">
