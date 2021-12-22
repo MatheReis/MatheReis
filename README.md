@@ -27,5 +27,10 @@
     <a href="https://www.linkedin.com/in/matheus-dos-reis-fagundes-0610b4206/" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "100" img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" _ blank "> </a> 
 
  ![Snake animation](https://github.com/MatheReis/MatheReis/blob/output/github-contribution-grid-snake.svg)
+     
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MatheReis/count.svg" />
+</p>
  
 
