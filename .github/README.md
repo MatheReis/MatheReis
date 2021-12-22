@@ -34,8 +34,8 @@
   <a href="https://www.linkedin.com/in/matheus-dos-reis-fagundes-0610b4206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MatheReis/count.svg" />
+  Número de Visitantes<br>
+  <img alt="Mat-Visit" src="https://profile-counter.glitch.me/MatheReis/count.svg" />
 </p>
 
   ![Snake animation](https://github.com/MatheReis/MatheReis/blob/output/github-contribution-grid-snake.svg)
