@@ -33,6 +33,11 @@
   <a href = "matheus.reisfagundes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dos-reis-fagundes-0610b4206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MatheReis/count.svg" />
+</p>
+
   ![Snake animation](https://github.com/MatheReis/MatheReis/blob/output/github-contribution-grid-snake.svg)
 
 </div>
