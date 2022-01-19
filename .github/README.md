@@ -1,10 +1,10 @@
 
-## Olá! Eu sou o Matheus Reis ✌️
+## Hello, I'm Matheus Reis ✌️
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-💻 Estágiario de Desenvolvimento de Software<br>
-🔆 Grande Entusista em Desenvolvimento Front End<br>
-🐲 Atualmente estudando Angular e Banco de Dados<br>
+🎓 Systems Analysis and Development Student<br>
+💻 Software Development Intern<br>
+🔆 Great Enthusiast in Front End Development<br>
+🐲 Currently studying Angular and Flutter<br>
 
  <div>
   <a href="https://github.com/MatheReis">
