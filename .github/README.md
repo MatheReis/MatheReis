@@ -2,8 +2,8 @@
 ## Hello, I'm Matheus Reis ✌️
 
 🎓 Systems Analysis and Development Student<br>
-💻 Software Development Mobile<br>
-🔆 Great Enthusiast in Front End Development<br>
+💻 Software Developer<br>
+🔆 Great enthusiast in all types of technology<br>
 🐲 Currently studying Angular and Flutter<br>
 
  <div>
@@ -24,6 +24,7 @@
   <img align="center" alt="Mat-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">  
   <img align="center" alt="Mat-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mat-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
+  <img align="center" alt="Mat-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
   <img align="center" alt="Mat-VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
   </div>
   <br>
