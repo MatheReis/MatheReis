@@ -12,15 +12,15 @@
   
   <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Mat-Js" height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg />
+  <img align = "center" alt = "Mat-Python" height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg />
   <img align = "center" alt = "Mat-HTML" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>
   <img align = "center" alt = "Mat-CSS" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>
-   <img align = "left" alt = "Mat-angular" height = "50" widht = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg /><br><br>
-   
-  <img align = "center" alt = "Mat-C#" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg  /><spacer align><spacer>
+  <img align = "left" alt = "Mat-angular" height = "50" widht = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg />
+  <img align = "center" alt = "Mat-C#" height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg  />
   <img align = "left" alt = "Mat-Ts" height = "50" widht = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg />
   <img align = "left" alt = "Mat-.net" height= "50" widht = "70"  src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg />
   <img align = "right" alt = "Mat-Dino" top = "-10" src = "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif"></div>
-   
+   <br>
   <div>
     <a href="https://instagram.com/eu_matreis" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "80" img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
     <a href = "matheus.reisfagundes@gmail.com"> <img align = "center" alt = "Mat-Gmail" height = "25" width = "100" img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
