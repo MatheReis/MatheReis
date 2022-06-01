@@ -21,7 +21,7 @@
   <img align = "left" alt = "Mat-.net" height= "50" widht = "70"  src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg />
   <img align = "right" alt = "Mat-Dino" top = "-10" src = "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif"></div>
    <br>
-  <div>
+  <div align="center">
     <a href="https://instagram.com/eu_matreis" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "80" img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
     <a href = "matheus.reisfagundes@gmail.com"> <img align = "center" alt = "Mat-Gmail" height = "25" width = "100" img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
     <a href="https://www.linkedin.com/in/matheus-dos-reis-fagundes-0610b4206/" target="_blank"> <img align = "center" alt = "Mat-Js" height = "25" width = "100" img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" _ blank "> </a> 
