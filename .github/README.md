@@ -3,7 +3,7 @@
 🎓 Systems Analysis and Development Student<br>
 💻 Software Developer<br>
 🔆 Great enthusiast in all types of technology<br>
-🐲 Currently studying Angular and Flutter<br>
+🐲 Currently studying Python and Kotlin<br>
 
 
  <div>
