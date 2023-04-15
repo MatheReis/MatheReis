@@ -3,7 +3,7 @@
 🎓 Systems Analysis and Development Student<br>
 💻 Software Developer<br>
 🔆 Great enthusiast in all types of technology<br>
-🐲 Currently studying React and Kotlin<br>
+🐲 Currently studying React and advanced Flutter<br>
 
 
  <div>
