@@ -25,9 +25,8 @@
   <img align="center" alt="Mat-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
   <img align="center" alt="Mat-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Mat-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
-  <img align="center" alt="Mat-VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Mat-Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> 
   <img align="center" alt="Mat-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-  <img align="center" alt="Mat-Figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
   </div>
   <br>
 <div> 
