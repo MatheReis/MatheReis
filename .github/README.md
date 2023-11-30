@@ -1,6 +1,6 @@
 <h1>Matheus Reis 🚀</h1>
 
-🎓 Systems Analysis and Development Student<br>
+🎓 Graduate Developer<br>
 💻 Software Developer<br>
 🔆 Great enthusiast in all types of technology<br>
 🐲 Currently studying Swift and advanced Flutter<br>
