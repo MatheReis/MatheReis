@@ -1,9 +1,9 @@
 <h1>Matheus Reis 🚀</h1>
 
 🎓 Graduate Developer<br>
-💻 Software Developer<br>
+💻 Full Stack Developer<br>
 🔆 Great enthusiast in all types of technology<br>
-🐲 Currently studying Swift and advanced Flutter<br>
+🐲 Currently studying Node JS and automation with Powershell<br>
 
 
  <div>
@@ -26,7 +26,9 @@
   <img align="center" alt="Mat-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Mat-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
   <img align="center" alt="Mat-Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> 
-  <img align="center" alt="Mat-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" alt="Mat-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Mat-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mat-Powershell" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">
   </div>
   <br>
 <div> 
